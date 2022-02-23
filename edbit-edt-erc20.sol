@@ -5,7 +5,7 @@
  *    ERC20 Compliant
  *    Supply type: capped
  *    Access type: role based
- *   Trasnfer type: unstoppable
+ *    Trasnfer type: unstoppable
  *    Burnable
  *    Mintable
  *    ERC1363
