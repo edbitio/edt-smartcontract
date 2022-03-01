@@ -1,5 +1,5 @@
 /**
- *
+ * To be submitted for verification at Etherscan.io
  * Edbit Inc. (https://edbit.io)
  * Features:
  *    ERC20 Compliant
